@@ -10,6 +10,9 @@ Here I will be sharing the recipes I normally bake at home including ingredients
 
 You can refer to my Instagram account [@bake_with_jose](https://www.instagram.com/bake_with_jose/) to check out the results of some of these recipes.
 
+## About the recipes
+All the recipes in this directory are based on sourdough as leaven-er. No added yeasts are used here.
+
 ## Sourdough Journey
 When COVID-19 hit around March 2020, I was already interested in baking bread and made my first disasters, but the lock-down gave me good reasons to dig further into sourdough and explore that new world for me.
 
