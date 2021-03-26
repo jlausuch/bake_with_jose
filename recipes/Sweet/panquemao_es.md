@@ -48,7 +48,7 @@ Quería llevar esta receta típica de mi tierra a un nivel superior, usando masa
 
 ## Procedimiento:
 - Hacer el prefermento de Masa Madre sólida y dejar fermentar toda la noche. Tardará unas 8-10 horas (dependiendo de la temperatura) en llegar al punto óptimo de uso.
-![](/images/panquemao/prefermento.jpg)
+<img src="/images/panquemao/prefermento.jpg" width="40%">
 - A la mañana siguiente, hacer el primer empasto. Poner la harina, la leche y el aceite junto con el prefermento y mezclar un poco en el bol de la amsadora. Batir el huevo y mezclarlo con el azúcar y echarlo a la masa para empezar el amasado.
 - Amasar unos minutos hasta que la masa tenga consistencia, pero no pasarse porque no queremos sobredesarrollar el gluten aún. Se puede amsar unos 10 o 15 minutos con reposos para no sobrecalentar la masa.
 - Hacer una bola y dejar fermentar en un bol por varias horas en un ambiente de 25 grados o más. Para saber si está bien fermentado, al tocar la masa tiene que estar llena de aire.
