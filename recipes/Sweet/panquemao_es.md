@@ -55,6 +55,7 @@ Quería llevar esta receta típica de mi tierra a un nivel superior, usando masa
 - Pasadas unas horas, desmenuzar la masa anterior en trocitos y meterlos en el bol de la amasadora. En un cuenco aparte, mezclar la yema del huevo bien batida con el poquito de agua de azahar, el azúcar, la sal y la ralladura. Luego, añadirlo a la masa con el resto de harina y mezclar en la amasadora hasta que el gluten esté bien desarrollado (unos 15-20 minutos con reposos).
 - Bolear bien y dejar fermentar por varias horas tapado con un bol boca abajo para que no le de el aire y se seque. Tener cuidado porque al crecer se puede pegar al bol. En invierno se puede dejar tranquilamente toda la noche fermentando, si no, siempre se puede dejar en la nevera y dejar fermentar a temperatura ambiente al día siguiente. La idea es que fermente al máximo, no queremos que abra mucho en el horno como un pan. Se puede hacer la prueba del dedo para saber si está lista, la huella del dedo no debe rebotar casi.
 <img src="/images/panquemao/fermentada.jpg" width="50%">
+**NOTA:** En este paso también se puede dividir la masa en dos y hacer dos panquemaos más pequeños.
 - Hacer un corte pequeño en cruz y añadir decoración a gusto. Yo mezclo azúcar con una cucharadita de agua de azahar para humedecerlo y que no se queme en el horno. Se puede poner azúcar glas, o una nube de clara de huevo montada...
 <img src="/images/panquemao/cortes.jpg" width="50%">
 <img src="/images/panquemao/decoracion.jpg" width="50%">
