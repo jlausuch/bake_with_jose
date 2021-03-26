@@ -2,6 +2,7 @@
 
 <img src="/images/panquemao/panquemao.jpg">
 
+
 ## Descripción
 En panquemao es un bollo dulce típico de la Comunidad Valencina.
 
@@ -63,3 +64,5 @@ Quería llevar esta receta típica de mi tierra a un nivel superior, usando masa
 - Hornear 15 minutos con calor abajo a 175ºC y 15 minutos con calor arriba y abajo, ir viendo que no se dore demasiado.
 
 <img src="/images/panquemao/dos.jpg">
+<img src="/images/panquemao/cprtada1.jpg">
+<img src="/images/panquemao/cprtada2.jpg">
